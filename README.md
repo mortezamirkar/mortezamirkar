@@ -1,15 +1,60 @@
-<h1 align="center">Hi 👋, I'm morteza</h1>
-<h3 align="center">iam a network and securiy engineer that loves python</h3>
+# Hi, I'm Morteza Amirkar! 👋
 
-<p align="left"> <a href="https://twitter.com/mortezaamirkar" target="blank"><img src="https://img.shields.io/twitter/follow/mortezaamirkar?logo=twitter&style=for-the-badge" alt="mortezaamirkar" /></a> </p>
+🎯 **DevOps Engineer | Linux Aficionado | CI/CD Specialist**
 
-- 📫 How to reach me **morteza.amirkar@protonmail.com**
+Welcome to my GitHub profile! I'm a passionate DevOps Engineer with a strong foundation in Linux, automation, and scalable infrastructure. My expertise spans across containerization, web server deployment, security, CI/CD pipelines, and much more.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mortezaamirkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mortezaamirkar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/morteza-amirkar-581251219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mortezaanirkar" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🔧 Key Skills and Tools
+- **Linux Administration**: Managing servers for optimal performance and security.
+- **Docker Mastery**: Containerization for seamless application deployment.
+- **CI/CD Pipelines**: Automating software delivery using GitLab.
+- **Bash & Python Scripting**: Crafting scripts to automate and enhance processes.
+- **Web Server Deployment**: Setting up and optimizing for high-performance websites.
+- **Monitoring & Alerting**: Proficient with Prometheus, Grafana, and Sentry.
+- **Object Storage Solutions**: Experience with Ceph and Minio.
+- **GitOps Practices**: Streamlining infrastructure updates through Git.
+
+---
+
+## 🚀 Professional Experience
+### DevOps Engineer, Amn Pardazan Kavir (July 2024 – Present)
+- Spearheading automation and CI/CD pipeline optimizations.
+- Strengthened Linux security protocols and containerized applications.
+
+### DevOps Engineer and Sysadmin, Crypto Exchange (July 2023 – July 2024)
+- Orchestrated scalable infrastructures with Docker and Kubernetes.
+- Implemented robust monitoring and alerting systems for enhanced reliability.
+
+### DevOps Engineer, Kimiagaran Kavir (April 2021 – May 2022)
+- Streamlined server setups and automated workflows using Bash scripting.
+- Collaborated on cross-functional teams to meet operational goals.
+
+---
+
+## 📚 Education
+- **Computer Engineering**, Islamic Azad University (October 2023)
+- **Mathematics**, Markal High School (2019 – 2023)
+
+---
+
+## 🌟 Let's Connect!
+- **Email**: [13morteza.1384@gmail.com](mailto:13morteza.1384@gmail.com)
+- **LinkedIn**: [Morteza Amirkar](https://www.linkedin.com/in/morteza-amirkar-581251219)
+
+---
+
+### 🌱 Current Goals
+- Mastering Kubernetes and advanced cloud-native technologies.
+- Contributing to open-source DevOps tools and frameworks.
+
+---
+
+### 📈 GitHub Stats
+![Morteza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+---
+
+🎉 **Feel free to explore my repositories and connect with me to collaborate on exciting projects!**
